@@ -22,7 +22,7 @@ The goal of this project is to save & build dynamic forms for client KYC, then p
 
 # Notes
 
-### To add shortcodes, make the following changes to `class-plugin-name-loader.php`.
+### Updated `class-plugin-name-loader.php` to incorporate shortcodes.
 
 - Private variable `$shortcodes` added.
 - `__construct()` is updated to initial `$shortcodes` also with empty array.
