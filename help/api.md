@@ -54,13 +54,12 @@ ___
 ### Using Variable data:
 
 - Replace the values with variables to pass dynamic values. Read more at [Variables Section](variables.md)
-
 ```
-http://example.com/get?key1={%var1%}&key2={%var2%} 
+http://example.com/get?key1={%site%}&key2={%page%} 
 ```
 or
 ```
-  key1={%var1%}&key2={%var2%}  
+  key1={%site%}&key2={%page%} 
 ```
 ___
 
