@@ -55,11 +55,11 @@ ___
 
 - Replace the values with variables to pass dynamic values. Read more at [Variables Section](variables.md)
 ```
-http://example.com/get?key1={%site%}&key2={%page%} 
+http://example.com/get?key1={&#37;variable1&#37;}&key2={&#37;variable2&#37;} 
 ```
 or
 ```
-  key1={%site%}&key2={%page%} 
+  key1={&#37;variable1&#37;}&key2={&#37;variable2&#37;} 
 ```
 ___
 
@@ -69,11 +69,11 @@ Use pipes to transform data.
 
 - &rarr; **split:{index}** : pipe split the string with spaces and use the `index` to return the element at the particular index.
 ```
-  http://example.com/get?key1={%name|split:0%}&key2={%name|split:1%} 
+  http://example.com/get?key1={&#37;name|split:0&#37;}&key2={&#37;name|split:1&#37;} 
 ```
 or
 ```
-  key1={%name|split:0%}&key2={%name|split:1%} 
+  key1={&#37;name|split:0&#37;}&key2={&#37;name|split:1&#37;} 
 ```
 
 
