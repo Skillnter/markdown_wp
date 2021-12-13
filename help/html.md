@@ -21,7 +21,7 @@ will become
   <input id='name' type='text' name='demo-name' > 
 ```
 
-- `<form>` tag is not allowed.
+-  &rarr; `<form>` tag is not allowed.
 ```HTML
   <form action="post.php" method="post" > 
 ```
