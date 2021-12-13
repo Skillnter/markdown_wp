@@ -54,6 +54,7 @@ ___
 ### Using Variable data:
 
 - Replace the values with variables to pass dynamic values. Read more at [Variables Section](variables.md)
+
 ```console
   http://example.com/get?key1={%variable1%}&key2={%variable2%} 
 ```
