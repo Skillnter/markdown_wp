@@ -38,6 +38,7 @@ or
 - &rarr; **Insert Post Body** : Must be in the format of a query string, i.e, key-value pairs separated by `&`. Similar to `Request Body`.
 - &rarr; **Update API** : Must be a valid URL with a protocol ( HTTP/HTTPS ). Similar to `API URL`.
 - &rarr; **Update Post Body** : Must be in the format of a query string, i.e, key-value pairs separated by `&`. Similar to `Request Body`.
+
 ___
 
 ### Passing data:
