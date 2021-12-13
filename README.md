@@ -40,5 +40,5 @@ The goal of this project is to save & build dynamic forms for client KYC, then p
 
 
 [WordPress Plugin Boilerplate]:https://wppb.me/
-[`admin/`]: /admin
-[`public/`]: /public
+[`admin/`]: /admin.md
+[`public/`]: /public.md
