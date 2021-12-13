@@ -8,4 +8,8 @@ include:
   - README.md
   - admin.md
   - public.md
-  - help.md
+  - help/index.md
+  - help/api.md
+  - help/variables.md
+  - help/shortcodes.md
+  - help/html.md
