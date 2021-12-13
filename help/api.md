@@ -55,7 +55,7 @@ ___
 
 - Replace the values with variables to pass dynamic values. Read more at [Variables Section](variables.md)
 ```
-http://example.com/get?key1={&#37;variable1&#37;}&key2={&#37;variable2&#37;} 
+http://example.com/get?key1={%variable1%}&key2={%variable2R=%} 
 ```
 or
 ```
