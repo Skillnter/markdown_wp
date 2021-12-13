@@ -3,7 +3,7 @@
 The goal of this project is to save & build dynamic forms for client KYC, then process the data using APIs from ZOHO, VOXOMOS, and VENDOR.
 
 - The boilerplate is generated with [WordPress Plugin Boilerplate]
-- Refer to [Help Section](help.md)
+- Refer to [Help Section](help/index.md)
 
 # Installation
 
