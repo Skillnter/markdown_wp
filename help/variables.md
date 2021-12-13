@@ -5,6 +5,7 @@ Variables are containers for storing data (values).
 > &lt;input id='name' type='text' name='demo-name' value='{&#37;demo-name&#37;}'&gt;
 
 A variable is linked with the `name` attribute of the form field. For example, {&#37;`demo-name`&#37;} variable will store the value of the `name='demo-name'` form field.
+
 ___
 
 ### Points to note:
