@@ -35,11 +35,11 @@ The goal of this project is to save & build dynamic forms for client KYC, then p
 - `includes/class-plugin-name.php` - Register all of the hooks related to the public/admin-facing functionality.
 - `installer.php` &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;- If the tables do not exist when the application is activated, it will construct them; otherwise, it will check the version and make the necessary changes to the table.
 
-- [`admin/`] &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;- This folder will include views and actions that will be done inside WordPress Admin.
-- [`public/`] &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;- This folder will include views and actions that will be done on the public website.
+- `admin/` &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;- This folder will include views and actions that will be done inside WordPress Admin. Refer to [Admin Section]
+- `public/` &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;- This folder will include views and actions that will be done on the public website. Refer to [Public Section]
 
 
 
 [WordPress Plugin Boilerplate]:https://wppb.me/
-[`admin/`]: /admin.md
-[`public/`]: /public.md
+[Admin Section]: /admin.md
+[Public Section]: /public.md
