@@ -26,7 +26,9 @@ will become
 ```HTML
   <form action="post.php" method="post" > 
 ```
+
 Will not work.
+
 
 - &rarr; For `Auto-fill`, `Auto-select`, `Auto-check` variables can be used. Variable is linked with the `name` attribute of the field. Read more at [Variables Section](help/variables.md)
 
