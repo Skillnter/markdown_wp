@@ -23,6 +23,7 @@ will become
 ```
 
 -  &rarr; `<form>` tag is not allowed.
+
 ```HTML
   <form action="post.php" method="post" > 
 ```
